@@ -1,0 +1,6 @@
+{
+  "services": {
+    "user": "http://localhost:8081",
+    "contact": "http://localhost:8082"
+  }
+}
